@@ -9,3 +9,4 @@ _main:
 ;gcc -m32 first.o -o first
 ;./first
 ;that is all for run first.asm 
+;only the test to build the environment
